@@ -7,7 +7,7 @@ export function AppNavbar() {
   return (
     <Navbar expand="lg" bg={"primary"} variant={"light"}>
       <Container>
-        <Navbar.Brand href="/">Template</Navbar.Brand>
+        <Navbar.Brand href="/">Netpad</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

@@ -9,7 +9,7 @@ export default function Layout({ children }) {
       </div>
 			<footer id="layoutFooter" className="text-center text-muted">
 				<hr />
-				<p>&copy; {new Date().getFullYear()} Template</p>
+				<p>&copy; {new Date().getFullYear()} Shaumik Ashraf</p>
 			</footer>
     </div>
   )
